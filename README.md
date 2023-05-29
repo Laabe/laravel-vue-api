@@ -8,4 +8,4 @@ The project has 2 crud systems for users and groups, unfortunatly i couldn't bui
 
 If i had more time, i would've made it with the react framework as it was part of the challenge.
 
-
+for the behat unit testing i don't know how to use it but i made the tests with the laravel framework.
