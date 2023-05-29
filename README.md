@@ -1,5 +1,9 @@
 # laravel-vue-api
 
+PHP Version 8.2
+LARAVEL Version 10
+Vue Version 3
+
 The backend is developped by php framework Laravel as it is easy to handle with a rich community and documentation, also it is based on the MVC architecture.
 
 The frontend on the other hand is developped with Javascript framework VueJs, the framework is easy to use with it seperation of html templates and javascript logic.
@@ -9,3 +13,8 @@ The project has 2 crud systems for users and groups, unfortunatly i couldn't bui
 If i had more time, i would've made it with the react framework as it was part of the challenge.
 
 for the behat unit testing i don't know how to use it but i made the tests with the laravel framework.
+
+When running the app please run the command: 
+php artisan generate:key
+php artisan migrate
+php artisan db:seed
